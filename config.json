@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercpdate",
+        "uuid": 11488960,
+        "checksum": "remyud"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
